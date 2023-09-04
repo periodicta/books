@@ -3,3 +3,10 @@ body {
   color: white;
   text-align: center;
 }
+
+.shelf {
+  height: 200px;
+  display: flex;
+  flex-flow: wrap;
+  row-gap: 10px;
+}
